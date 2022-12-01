@@ -1,0 +1,15 @@
+D:\ProgrammingProjects\Encryption\Encryption\bin\Debug\net6.0\Encryption.exe
+D:\ProgrammingProjects\Encryption\Encryption\bin\Debug\net6.0\Encryption.deps.json
+D:\ProgrammingProjects\Encryption\Encryption\bin\Debug\net6.0\Encryption.runtimeconfig.json
+D:\ProgrammingProjects\Encryption\Encryption\bin\Debug\net6.0\Encryption.dll
+D:\ProgrammingProjects\Encryption\Encryption\bin\Debug\net6.0\Encryption.pdb
+D:\ProgrammingProjects\Encryption\Encryption\obj\Debug\net6.0\Encryption.csproj.AssemblyReference.cache
+D:\ProgrammingProjects\Encryption\Encryption\obj\Debug\net6.0\Encryption.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgrammingProjects\Encryption\Encryption\obj\Debug\net6.0\Encryption.AssemblyInfoInputs.cache
+D:\ProgrammingProjects\Encryption\Encryption\obj\Debug\net6.0\Encryption.AssemblyInfo.cs
+D:\ProgrammingProjects\Encryption\Encryption\obj\Debug\net6.0\Encryption.csproj.CoreCompileInputs.cache
+D:\ProgrammingProjects\Encryption\Encryption\obj\Debug\net6.0\Encryption.dll
+D:\ProgrammingProjects\Encryption\Encryption\obj\Debug\net6.0\refint\Encryption.dll
+D:\ProgrammingProjects\Encryption\Encryption\obj\Debug\net6.0\Encryption.pdb
+D:\ProgrammingProjects\Encryption\Encryption\obj\Debug\net6.0\Encryption.genruntimeconfig.cache
+D:\ProgrammingProjects\Encryption\Encryption\obj\Debug\net6.0\ref\Encryption.dll
